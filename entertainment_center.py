@@ -1,9 +1,9 @@
-#!usr/bin/python
+#!/usr/bin/env python
 
 """ module: entertainment_center
     python version: 2.7.12
 
-    purpose: creates class instances of class movie
+    purpose: creates instances of class movie
              creates and opens webpage
 """
 
