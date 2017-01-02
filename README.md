@@ -7,6 +7,8 @@ Favorite Movie Program Version 1.0
 
 Creates a web page of my favorite movies and their trailers.
 
+Language: Python
+
 
     ***** Files *****
 entertainment_center.py:  loads instances
